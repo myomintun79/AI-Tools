@@ -7,7 +7,7 @@ https://gemini.google.com/app \
 https://copilot.microsoft.com/ \
 https://chat.deepseek.com/ \
 https://grok.com/?referrer=website \
-Image
+Image \
 https://nanobanana.ai/
 
 # Music
